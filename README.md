@@ -124,5 +124,10 @@ mutation {
   }
 }
 
-
+- **env**
+- DB_HOST=localhost
+- DB_USER=root
+- DB_PASSWORD=
+- DB_NAME=task_management_db
+- DB_PORT=3306
 
